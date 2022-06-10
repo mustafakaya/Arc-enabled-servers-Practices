@@ -24,6 +24,7 @@ You should limit the user's privileges with Azure Connected Machine Onboarding r
 
 You should review the Identity and Access control overview for full details: Security overview - Azure Arc | Microsoft Docs
 
+![image](https://user-images.githubusercontent.com/9195953/173076471-18819c1a-0dd5-4c39-8750-ba679631c9d5.png)
 
 
 
@@ -35,6 +36,7 @@ Other option is connect Azure with Private Link. That option makes connections w
 
 For more information What is Azure Private Link? | Microsoft Docs
 
+![image](https://user-images.githubusercontent.com/9195953/173076491-44d081df-cd60-4309-a738-b577b8d7002b.png)
 
 
 
@@ -63,7 +65,6 @@ For more information: Security overview - Azure Arc | Microsoft Docs
 
 You should review the following guides 
 
-	- Ready methodology for hybrid and multicloud strategy - Cloud Adoption Framework | Microsoft Docs
-	- Azure identity and access management design area - Cloud Adoption Framework | Microsoft Docs
+	- Ready methodology for hybrid and multicloud strategy - Cloud Adoption Framework | Microsoft Docs (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/ready)
+	- Azure identity and access management design area - Cloud Adoption Framework | Microsoft Docs (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/ready)
 	
-![image](https://user-images.githubusercontent.com/9195953/173076192-a58cef6e-98ed-4168-a50b-d5219d779c14.png)
