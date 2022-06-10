@@ -63,8 +63,9 @@ You can allow or block any extension on the server. Extension managed handle all
 
 For more information: Security overview - Azure Arc | Microsoft Docs
 
-You should review the following guides 
+You should review the following guides :
 
-	- Ready methodology for hybrid and multicloud strategy - Cloud Adoption Framework | Microsoft Docs (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/ready)
-	- Azure identity and access management design area - Cloud Adoption Framework | Microsoft Docs (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/ready)
+[Ready methodology for hybrid and multicloud strategy - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/ready)
+
+[Azure identity and access management design area - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/ready)
 	
