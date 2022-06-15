@@ -59,7 +59,7 @@ First you need to setup WAC to your server, that installs extension to your serv
 
 ![image](https://user-images.githubusercontent.com/9195953/173695657-4e3e4df5-e984-4626-901c-06ed42de1cbb.png)
 
-![image](https://user-images.githubusercontent.com/9195953/173695554-647a5dd6-fb25-4f84-97dc-3e7e40e835b1.png)
+
 
 
 
